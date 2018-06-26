@@ -1,1 +1,24 @@
 /*!---------- PLACE YOUR CUSTOM STYLES AND OVERRIDES HERE ----------*/
+.masthead {
+  padding: 2.5rem 0;
+  background-color: white;
+}
+.masthead .flex-wrap {
+  display: flex;
+  align-items: baseline;
+}
+.masthead .masthead__util {
+  text-align: right;
+}
+.masthead .masthead__util span {
+  font-size: 18px;
+  color: black;
+  margin-left: .5em;
+  font-weight: 500;
+}
+.masthead .masthead__util a {
+  font-size: 18px;
+  color: black;
+  margin-left: .5em;
+  font-weight: 500;
+}
